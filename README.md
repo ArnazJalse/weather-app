@@ -21,6 +21,7 @@ The Weather App is a web application that allows users to fetch weather informat
 
 ```bash
 git clone https://github.com/ArnazJalse/weather-app.git
+```
   
 2. Open the project in your preferred IDE.
 
@@ -38,3 +39,4 @@ git clone https://github.com/ArnazJalse/weather-app.git
 
 ```java
 String apiKey = "your-api-key";
+```
