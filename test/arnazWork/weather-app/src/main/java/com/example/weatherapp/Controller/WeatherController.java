@@ -20,7 +20,7 @@ public class WeatherController {
 
     @GetMapping("/weather")
     public ResponseEntity<String> getWeather(@RequestParam("country") String country) {
-        String apiKey = "554fe277494d4b45b38164235231106";
+        String apiKey = "your-api-key";
         String apiUrl = "https://api.weatherapi.com/v1/current.json?key=" + apiKey + "&q=" + country;
 
         RestTemplate restTemplate = new RestTemplate();
