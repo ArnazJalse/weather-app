@@ -19,7 +19,8 @@ The Weather App is a web application that allows users to fetch weather informat
 
 1. Clone the repository:
 
-git clone 
+```bash
+git clone https://github.com/ArnazJalse/weather-app.git ```
   
 2. Open the project in your preferred IDE.
 
