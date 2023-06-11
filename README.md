@@ -2,6 +2,9 @@
 
 The Weather App is a web application that allows users to fetch weather information for different countries using an external weather API. The backend of the application is built using Spring Boot, while the frontend is developed using HTML, CSS, and JavaScript.
 
+<img width="696" alt="image" src="https://github.com/ArnazJalse/weather-app/assets/77377394/b2160f10-afae-4a27-8ba7-0305acd78b27">
+
+
 ## Features
 
 - Enter a country name to fetch the current weather information.
